@@ -24,28 +24,26 @@ This Python script provides functionality for managing inventory in a shop or st
 1. **Clone the Repository:**
    ```bash
    git [clone https://github.com/your-username/inventory-management-system.git](https://github.com/Kshitij-pro-coder/Inventory-Management-System.git)
-Navigate to the Project Directory:
+**Navigate to the Project Directory:**
 
 bash
 cd inventory-management-system
-Run the Script:
+
+**Run the Script:**
 
 bash
 python main.py
-Follow the On-screen Instructions: You will be prompted to sign up or log in, then you can perform various inventory operations.
+**Follow the On-screen Instructions: You will be prompted to sign up or log in, then you can perform various inventory operations.**
 
-Usage
+##Usage
 Run the script and follow the prompts to perform inventory management tasks.
 
-Contributing
+##Contributing
 This is a basic project and contributions are encouraged! If you have any ideas for improvements or new features, feel free to contribute. You can:
 
 Submit bug reports or feature requests through the issue tracker.
 Fork the repository, make your changes, and submit a pull request.
-License
+##License
 This project is licensed under the MIT License.
-
-vbnet
-Copy code
 
 These lines emphasize that the project is basic and open to contributions from others. T
